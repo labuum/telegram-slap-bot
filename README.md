@@ -1,3 +1,5 @@
+ORIGINAL README: Will update once finished.
+
 # Telegram Slap bot
 Slap a random user in a telegram channel or group.
 
